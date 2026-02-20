@@ -1,0 +1,842 @@
+[
+  {
+    "id": "deal-045",
+    "date": "2026-02-20",
+    "company": "Pulse Works",
+    "sector": "AI Infrastructure",
+    "stage": "Pre-Seed",
+    "amountM": 2.8,
+    "leadInvestor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "Sequoia Capital"
+    ],
+    "country": "France"
+  },
+  {
+    "id": "deal-035",
+    "date": "2026-02-19",
+    "company": "Cascade Labs",
+    "sector": "Enterprise AI",
+    "stage": "Pre-Seed",
+    "amountM": 2.7,
+    "leadInvestor": "Greylock",
+    "investors": [
+      "Greylock",
+      "Andreessen Horowitz"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-041",
+    "date": "2026-02-18",
+    "company": "Nova Labs",
+    "sector": "Healthcare AI",
+    "stage": "Series C",
+    "amountM": 150.0,
+    "leadInvestor": "Greylock",
+    "investors": [
+      "Greylock",
+      "NEA"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-037",
+    "date": "2026-02-15",
+    "company": "Lattice Labs",
+    "sector": "Robotics AI",
+    "stage": "Pre-Seed",
+    "amountM": 2.3,
+    "leadInvestor": "Sequoia Capital",
+    "investors": [
+      "Sequoia Capital",
+      "Andreessen Horowitz"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-060",
+    "date": "2026-02-15",
+    "company": "Vertex Dynamics",
+    "sector": "Robotics AI",
+    "stage": "Series B",
+    "amountM": 55.7,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Tiger Global"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-015",
+    "date": "2026-02-11",
+    "company": "Signal Works",
+    "sector": "Enterprise AI",
+    "stage": "Seed",
+    "amountM": 5.7,
+    "leadInvestor": "Lightspeed Ventures",
+    "investors": [
+      "Lightspeed Ventures",
+      "NEA"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-012",
+    "date": "2026-02-10",
+    "company": "Vertex Dynamics",
+    "sector": "AI Infrastructure",
+    "stage": "Seed",
+    "amountM": 3.8,
+    "leadInvestor": "Tiger Global",
+    "investors": [
+      "Tiger Global",
+      "Andreessen Horowitz"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "id": "deal-043",
+    "date": "2026-02-09",
+    "company": "Nimbus Labs",
+    "sector": "Security AI",
+    "stage": "Seed",
+    "amountM": 6.5,
+    "leadInvestor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "Greylock"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-009",
+    "date": "2026-02-07",
+    "company": "Clarity Cloud",
+    "sector": "Robotics AI",
+    "stage": "Growth",
+    "amountM": 169.4,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "General Catalyst"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-039",
+    "date": "2026-02-06",
+    "company": "Vector Systems",
+    "sector": "Fintech AI",
+    "stage": "Series B",
+    "amountM": 35.0,
+    "leadInvestor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "NEA"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-005",
+    "date": "2026-02-03",
+    "company": "Cascade Systems",
+    "sector": "AI Infrastructure",
+    "stage": "Series B",
+    "amountM": 49.7,
+    "leadInvestor": "NEA",
+    "investors": [
+      "NEA",
+      "Andreessen Horowitz"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-024",
+    "date": "2026-02-02",
+    "company": "Signal Systems",
+    "sector": "Robotics AI",
+    "stage": "Pre-Seed",
+    "amountM": 1.6,
+    "leadInvestor": "Lightspeed Ventures",
+    "investors": [
+      "Lightspeed Ventures",
+      "GV"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "id": "deal-042",
+    "date": "2026-01-31",
+    "company": "Pulse Dynamics",
+    "sector": "Security AI",
+    "stage": "Series C",
+    "amountM": 140.4,
+    "leadInvestor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "Lightspeed Ventures"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-056",
+    "date": "2026-01-27",
+    "company": "Beacon Labs",
+    "sector": "Security AI",
+    "stage": "Series B",
+    "amountM": 56.6,
+    "leadInvestor": "Index Ventures",
+    "investors": [
+      "Index Ventures",
+      "Bessemer Venture Partners"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "id": "deal-011",
+    "date": "2026-01-26",
+    "company": "Axiom AI",
+    "sector": "Climate AI",
+    "stage": "Series A",
+    "amountM": 22.1,
+    "leadInvestor": "Lightspeed Ventures",
+    "investors": [
+      "Lightspeed Ventures",
+      "Tiger Global"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-019",
+    "date": "2026-01-22",
+    "company": "Beacon AI",
+    "sector": "Fintech AI",
+    "stage": "Series A",
+    "amountM": 23.5,
+    "leadInvestor": "Greylock",
+    "investors": [
+      "Greylock",
+      "Bessemer Venture Partners"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-054",
+    "date": "2026-01-22",
+    "company": "Pulse Dynamics",
+    "sector": "Enterprise AI",
+    "stage": "Series A",
+    "amountM": 19.1,
+    "leadInvestor": "Insight Partners",
+    "investors": [
+      "Insight Partners",
+      "Sequoia Capital"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-040",
+    "date": "2026-01-18",
+    "company": "Ember Cloud",
+    "sector": "Healthcare AI",
+    "stage": "Series B",
+    "amountM": 42.8,
+    "leadInvestor": "Index Ventures",
+    "investors": [
+      "Index Ventures",
+      "NEA"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-030",
+    "date": "2026-01-17",
+    "company": "Ember AI",
+    "sector": "Robotics AI",
+    "stage": "Seed",
+    "amountM": 3.6,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "Coatue"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-049",
+    "date": "2026-01-16",
+    "company": "Vertex Cloud",
+    "sector": "Security AI",
+    "stage": "Seed",
+    "amountM": 6.0,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "GV"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-018",
+    "date": "2026-01-15",
+    "company": "Quantum Works",
+    "sector": "Security AI",
+    "stage": "Growth",
+    "amountM": 152.8,
+    "leadInvestor": "Tiger Global",
+    "investors": [
+      "Tiger Global",
+      "NEA"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-044",
+    "date": "2026-01-15",
+    "company": "Vertex Cloud",
+    "sector": "Healthcare AI",
+    "stage": "Growth",
+    "amountM": 270.1,
+    "leadInvestor": "Coatue",
+    "investors": [
+      "Coatue",
+      "Bessemer Venture Partners"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-001",
+    "date": "2026-01-12",
+    "company": "Cascade AI",
+    "sector": "AI Infrastructure",
+    "stage": "Pre-Seed",
+    "amountM": 1.7,
+    "leadInvestor": "Insight Partners",
+    "investors": [
+      "Insight Partners",
+      "Andreessen Horowitz"
+    ],
+    "country": "France"
+  },
+  {
+    "id": "deal-050",
+    "date": "2026-01-09",
+    "company": "Ember Cloud",
+    "sector": "Climate AI",
+    "stage": "Growth",
+    "amountM": 163.1,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Tiger Global"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-008",
+    "date": "2026-01-08",
+    "company": "Cascade Labs",
+    "sector": "Enterprise AI",
+    "stage": "Seed",
+    "amountM": 6.1,
+    "leadInvestor": "NEA",
+    "investors": [
+      "NEA",
+      "General Catalyst"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-016",
+    "date": "2026-01-07",
+    "company": "Pilot Labs",
+    "sector": "Fintech AI",
+    "stage": "Series A",
+    "amountM": 14.4,
+    "leadInvestor": "Index Ventures",
+    "investors": [
+      "Index Ventures",
+      "Founders Fund"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-029",
+    "date": "2026-01-05",
+    "company": "Signal AI",
+    "sector": "Security AI",
+    "stage": "Series A",
+    "amountM": 26.4,
+    "leadInvestor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Andreessen Horowitz"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-006",
+    "date": "2026-01-04",
+    "company": "Nimbus AI",
+    "sector": "Healthcare AI",
+    "stage": "Series B",
+    "amountM": 31.1,
+    "leadInvestor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "Andreessen Horowitz"
+    ],
+    "country": "France"
+  },
+  {
+    "id": "deal-013",
+    "date": "2025-12-29",
+    "company": "Lattice AI",
+    "sector": "Fintech AI",
+    "stage": "Growth",
+    "amountM": 258.6,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Coatue"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-023",
+    "date": "2025-12-21",
+    "company": "Vertex Cloud",
+    "sector": "Robotics AI",
+    "stage": "Series B",
+    "amountM": 54.9,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "Sequoia Capital"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-051",
+    "date": "2025-12-21",
+    "company": "Signal Cloud",
+    "sector": "Security AI",
+    "stage": "Series A",
+    "amountM": 16.1,
+    "leadInvestor": "Greylock",
+    "investors": [
+      "Greylock",
+      "Founders Fund"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-003",
+    "date": "2025-12-19",
+    "company": "Cortex Systems",
+    "sector": "Climate AI",
+    "stage": "Seed",
+    "amountM": 6.7,
+    "leadInvestor": "Lightspeed Ventures",
+    "investors": [
+      "Lightspeed Ventures",
+      "Founders Fund"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-057",
+    "date": "2025-12-19",
+    "company": "Axiom Cloud",
+    "sector": "Fintech AI",
+    "stage": "Series C",
+    "amountM": 138.3,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Bessemer Venture Partners"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-014",
+    "date": "2025-12-17",
+    "company": "Signal Works",
+    "sector": "Healthcare AI",
+    "stage": "Series A",
+    "amountM": 28.1,
+    "leadInvestor": "General Catalyst",
+    "investors": [
+      "General Catalyst",
+      "Tiger Global"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-031",
+    "date": "2025-12-15",
+    "company": "Lattice Labs",
+    "sector": "Enterprise AI",
+    "stage": "Series B",
+    "amountM": 49.2,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "Insight Partners"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-032",
+    "date": "2025-12-12",
+    "company": "Nova Dynamics",
+    "sector": "Healthcare AI",
+    "stage": "Series B",
+    "amountM": 40.7,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Andreessen Horowitz"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-027",
+    "date": "2025-12-10",
+    "company": "Cortex Cloud",
+    "sector": "AI Infrastructure",
+    "stage": "Growth",
+    "amountM": 169.0,
+    "leadInvestor": "GV",
+    "investors": [
+      "GV",
+      "General Catalyst"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "id": "deal-046",
+    "date": "2025-12-06",
+    "company": "Clarity Labs",
+    "sector": "Enterprise AI",
+    "stage": "Series C",
+    "amountM": 103.8,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "GV"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-036",
+    "date": "2025-11-28",
+    "company": "Orbit Dynamics",
+    "sector": "Climate AI",
+    "stage": "Seed",
+    "amountM": 4.5,
+    "leadInvestor": "Index Ventures",
+    "investors": [
+      "Index Ventures",
+      "General Catalyst"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-052",
+    "date": "2025-11-28",
+    "company": "Pilot Labs",
+    "sector": "Climate AI",
+    "stage": "Series B",
+    "amountM": 52.8,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Accel"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-007",
+    "date": "2025-11-27",
+    "company": "Forge Cloud",
+    "sector": "Security AI",
+    "stage": "Series B",
+    "amountM": 43.2,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "Insight Partners"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-058",
+    "date": "2025-11-27",
+    "company": "Helix Labs",
+    "sector": "Security AI",
+    "stage": "Pre-Seed",
+    "amountM": 1.7,
+    "leadInvestor": "Khosla Ventures",
+    "investors": [
+      "Khosla Ventures",
+      "Tiger Global"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-022",
+    "date": "2025-11-23",
+    "company": "Prism Dynamics",
+    "sector": "Robotics AI",
+    "stage": "Series A",
+    "amountM": 19.2,
+    "leadInvestor": "Coatue",
+    "investors": [
+      "Coatue",
+      "NEA"
+    ],
+    "country": "France"
+  },
+  {
+    "id": "deal-025",
+    "date": "2025-11-23",
+    "company": "Vector Cloud",
+    "sector": "Robotics AI",
+    "stage": "Growth",
+    "amountM": 197.8,
+    "leadInvestor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Andreessen Horowitz"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-017",
+    "date": "2025-11-22",
+    "company": "Cascade Labs",
+    "sector": "Climate AI",
+    "stage": "Growth",
+    "amountM": 139.9,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "Index Ventures"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-021",
+    "date": "2025-11-21",
+    "company": "Atlas Cloud",
+    "sector": "AI Infrastructure",
+    "stage": "Growth",
+    "amountM": 152.4,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "Tiger Global"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "id": "deal-059",
+    "date": "2025-11-21",
+    "company": "Quantum Dynamics",
+    "sector": "Security AI",
+    "stage": "Growth",
+    "amountM": 189.7,
+    "leadInvestor": "NEA",
+    "investors": [
+      "NEA",
+      "Sequoia Capital"
+    ],
+    "country": "France"
+  },
+  {
+    "id": "deal-020",
+    "date": "2025-11-20",
+    "company": "Helix Cloud",
+    "sector": "AI Infrastructure",
+    "stage": "Series A",
+    "amountM": 22.1,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "Sequoia Capital"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-010",
+    "date": "2025-11-19",
+    "company": "Atlas Labs",
+    "sector": "Enterprise AI",
+    "stage": "Series A",
+    "amountM": 26.9,
+    "leadInvestor": "Lightspeed Ventures",
+    "investors": [
+      "Lightspeed Ventures",
+      "Khosla Ventures"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-055",
+    "date": "2025-11-14",
+    "company": "Beacon Cloud",
+    "sector": "Robotics AI",
+    "stage": "Series C",
+    "amountM": 154.8,
+    "leadInvestor": "GV",
+    "investors": [
+      "GV",
+      "Lightspeed Ventures"
+    ],
+    "country": "Germany"
+  },
+  {
+    "id": "deal-034",
+    "date": "2025-11-12",
+    "company": "Orbit AI",
+    "sector": "Security AI",
+    "stage": "Series C",
+    "amountM": 126.7,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Coatue"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-038",
+    "date": "2025-11-12",
+    "company": "Atlas Works",
+    "sector": "Enterprise AI",
+    "stage": "Series A",
+    "amountM": 24.0,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "Lightspeed Ventures"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-004",
+    "date": "2025-11-11",
+    "company": "Prism Works",
+    "sector": "Healthcare AI",
+    "stage": "Growth",
+    "amountM": 180.5,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "NEA"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-028",
+    "date": "2025-11-11",
+    "company": "Lattice AI",
+    "sector": "Healthcare AI",
+    "stage": "Seed",
+    "amountM": 7.1,
+    "leadInvestor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Sequoia Capital"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-053",
+    "date": "2025-11-10",
+    "company": "Beacon Dynamics",
+    "sector": "AI Infrastructure",
+    "stage": "Pre-Seed",
+    "amountM": 2.9,
+    "leadInvestor": "Founders Fund",
+    "investors": [
+      "Founders Fund",
+      "Andreessen Horowitz"
+    ],
+    "country": "UK"
+  },
+  {
+    "id": "deal-026",
+    "date": "2025-11-03",
+    "company": "Vertex AI",
+    "sector": "Robotics AI",
+    "stage": "Series C",
+    "amountM": 80.7,
+    "leadInvestor": "Accel",
+    "investors": [
+      "Accel",
+      "Greylock"
+    ],
+    "country": "US"
+  },
+  {
+    "id": "deal-033",
+    "date": "2025-11-01",
+    "company": "Nimbus Systems",
+    "sector": "Climate AI",
+    "stage": "Seed",
+    "amountM": 4.2,
+    "leadInvestor": "Greylock",
+    "investors": [
+      "Greylock",
+      "Andreessen Horowitz"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-048",
+    "date": "2025-10-31",
+    "company": "Pilot Works",
+    "sector": "Enterprise AI",
+    "stage": "Growth",
+    "amountM": 227.0,
+    "leadInvestor": "Andreessen Horowitz",
+    "investors": [
+      "Andreessen Horowitz",
+      "Founders Fund"
+    ],
+    "country": "Canada"
+  },
+  {
+    "id": "deal-047",
+    "date": "2025-10-28",
+    "company": "Quantum Systems",
+    "sector": "Enterprise AI",
+    "stage": "Series A",
+    "amountM": 21.0,
+    "leadInvestor": "Coatue",
+    "investors": [
+      "Coatue",
+      "Founders Fund"
+    ],
+    "country": "France"
+  },
+  {
+    "id": "deal-002",
+    "date": "2025-10-27",
+    "company": "Cascade Dynamics",
+    "sector": "AI Infrastructure",
+    "stage": "Pre-Seed",
+    "amountM": 1.6,
+    "leadInvestor": "Bessemer Venture Partners",
+    "investors": [
+      "Bessemer Venture Partners",
+      "Accel"
+    ],
+    "country": "UK"
+  }
+]
