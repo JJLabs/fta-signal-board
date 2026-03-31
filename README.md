@@ -1,8 +1,8 @@
 # AI Funding Signal Board
 
-An interactive AI funding deals tracker embedded in the [Feed The AI Now](https://feedtheainow.com) website. Filterable, sortable table of recent AI funding rounds with gated signal columns unlocked via email signup.
+An interactive AI funding deals tracker embedded in the [Feed The AI](https://feedtheai.com) website. Filterable, sortable table of recent AI funding rounds with gated signal columns unlocked via email signup.
 
-**Live:** [tools.feedtheainow.com](https://tools.feedtheainow.com) *(coming soon)*
+
 
 ---
 
